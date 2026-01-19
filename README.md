@@ -1,5 +1,6 @@
 # 🌤️ Maharashtra Weather App - TASK4
 the live link - https://weatherapptask4.vercel.app/
+imp notice - in navigation bar /search which is above the notification symbol - you can search which cities you want yo know in Maharashtra 
 Modern weather application for Maharashtra with real-time data and beautiful animations.
 
 ## 🚀 Features
